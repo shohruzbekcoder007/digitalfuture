@@ -17,7 +17,7 @@ module.exports = {
       name: 'journal-frontend',
       cwd: './frontend',
       script: 'node_modules/.bin/vite',
-      args: 'preview --host --port 3000',
+      args: 'preview --host --port 5173',
       instances: 1,
       autorestart: true,
       watch: false,
