@@ -1,0 +1,128 @@
+{
+  "site": {
+    "name": "FUTURE ECONOMY AND DIGITAL TRANSFORMATIONS",
+    "shortName": "Future Economy",
+    "tagline": "Peer-reviewed journal on economics, digital transformation and innovation",
+    "issn": "ISSN 2181-1234"
+  },
+  "nav": {
+    "home": "Home",
+    "current": "Current Issue",
+    "archive": "Archive",
+    "articles": "Articles",
+    "authors": "Authors",
+    "about": "About",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "Future economy and digital transformations",
+    "subtitle": "An open-access, peer-reviewed journal covering economics, digital transformation, fintech, public administration and innovation.",
+    "viewCurrent": "View current issue",
+    "browseArchive": "Browse archive"
+  },
+  "home": {
+    "currentIssue": "Current Issue",
+    "featuredArticles": "Featured articles",
+    "recentArticles": "Recent articles",
+    "browseAll": "Browse all"
+  },
+  "issue": {
+    "volume": "Volume",
+    "issue": "Issue",
+    "year": "Year",
+    "pages": "Pages",
+    "publicationDate": "Published",
+    "downloadPdf": "Download PDF",
+    "viewIssue": "Open issue",
+    "articlesInIssue": "Articles in this issue",
+    "issn": "ISSN",
+    "current": "Current issue",
+    "noArticles": "No articles yet"
+  },
+  "article": {
+    "abstract": "Abstract",
+    "keywords": "Keywords",
+    "authors": "Authors",
+    "doi": "DOI",
+    "pages": "Pages",
+    "category": "Category",
+    "language": "Language",
+    "publishedIn": "Published in",
+    "downloadPdf": "Download PDF",
+    "viewPdf": "View PDF",
+    "cite": "Cite",
+    "share": "Share",
+    "views": "views",
+    "downloads": "downloads",
+    "readMore": "Read more",
+    "fullText": "Full text",
+    "references": "References",
+    "relatedArticles": "Related articles",
+    "citationCopied": "Citation copied"
+  },
+  "filter": {
+    "search": "Search by title, author or keyword...",
+    "all": "All",
+    "category": "Category",
+    "language": "Language",
+    "year": "Year",
+    "sort": "Sort by",
+    "reset": "Reset"
+  },
+  "category": {
+    "research": "Research article",
+    "review": "Review article",
+    "case-study": "Case study",
+    "editorial": "Editorial",
+    "short-communication": "Short communication",
+    "other": "Other"
+  },
+  "sort": {
+    "newest": "Newest",
+    "oldest": "Oldest",
+    "popular": "Most viewed",
+    "downloads": "Most downloaded"
+  },
+  "author": {
+    "affiliation": "Affiliation",
+    "country": "Country",
+    "orcid": "ORCID",
+    "publications": "Publications",
+    "articlesCount": "Articles",
+    "viewProfile": "View profile"
+  },
+  "archive": {
+    "title": "Archive",
+    "subtitle": "All published issues",
+    "issues": "issues"
+  },
+  "common": {
+    "loading": "Loading...",
+    "empty": "Nothing found",
+    "back": "Back",
+    "search": "Search",
+    "noData": "No data"
+  },
+  "admin": {
+    "title": "Dashboard",
+    "issues": "Issues",
+    "articles": "Articles",
+    "authors": "Authors",
+    "addNew": "Add new",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirmDelete": "Delete this?",
+    "save": "Save",
+    "cancel": "Cancel",
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "contact": "Contact",
+    "submissions": "Submit article",
+    "ethics": "Publication ethics"
+  }
+}

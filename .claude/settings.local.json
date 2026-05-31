@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"d:\\\\Jurnal\\\\ikkinchi\")",
+      "Bash(node -e \"require\\('./config/upload'\\); require\\('./config/db'\\); require\\('./routes/uploads'\\); require\\('./routes/issues'\\); require\\('./routes/articles'\\); require\\('./routes/authors'\\); console.log\\('OK: barcha modullar import qilindi'\\);\")",
+      "Bash(node -c server.js)"
+    ]
+  }
+}

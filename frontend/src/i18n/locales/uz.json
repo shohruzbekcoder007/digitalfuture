@@ -1,0 +1,128 @@
+{
+  "site": {
+    "name": "KELAJAK IQTISODIYOTI VA RAQAMLI TRANSFORMATSIYALAR",
+    "shortName": "Kelajak Iqtisodiyoti",
+    "tagline": "Iqtisodiyot, raqamli transformatsiyalar va innovatsiyalar bo'yicha ilmiy jurnal",
+    "issn": "ISSN 2181-1234"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "current": "Joriy son",
+    "archive": "Arxiv",
+    "articles": "Maqolalar",
+    "authors": "Mualliflar",
+    "about": "Jurnal haqida",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "Kelajak iqtisodiyoti va raqamli transformatsiyalar",
+    "subtitle": "Iqtisodiyot, raqamli transformatsiya, fintech, davlat boshqaruvi va innovatsiyalar bo'yicha ochiq kirimli akademik nashr.",
+    "viewCurrent": "Joriy sonni ko'rish",
+    "browseArchive": "Arxivga o'tish"
+  },
+  "home": {
+    "currentIssue": "Joriy son",
+    "featuredArticles": "Tanlangan maqolalar",
+    "recentArticles": "So'nggi maqolalar",
+    "browseAll": "Barchasini ko'rish"
+  },
+  "issue": {
+    "volume": "Tom",
+    "issue": "Son",
+    "year": "Yil",
+    "pages": "Sahifalar",
+    "publicationDate": "Nashr sanasi",
+    "downloadPdf": "PDF yuklash",
+    "viewIssue": "Sonni ko'rish",
+    "articlesInIssue": "Ushbu sondagi maqolalar",
+    "issn": "ISSN",
+    "current": "Joriy son",
+    "noArticles": "Hali maqolalar yo'q"
+  },
+  "article": {
+    "abstract": "Annotatsiya",
+    "keywords": "Kalit so'zlar",
+    "authors": "Mualliflar",
+    "doi": "DOI",
+    "pages": "Sahifalar",
+    "category": "Yo'nalish",
+    "language": "Til",
+    "publishedIn": "Nashr etilgan",
+    "downloadPdf": "PDF yuklab olish",
+    "viewPdf": "PDF ko'rish",
+    "cite": "Iqtibos keltirish",
+    "share": "Ulashish",
+    "views": "ko'rilgan",
+    "downloads": "yuklab olingan",
+    "readMore": "Davomini o'qish",
+    "fullText": "To'liq matn",
+    "references": "Foydalanilgan adabiyotlar",
+    "relatedArticles": "Tegishli maqolalar",
+    "citationCopied": "Iqtibos nusxalandi"
+  },
+  "filter": {
+    "search": "Sarlavha, muallif, kalit so'z bo'yicha qidirish...",
+    "all": "Barchasi",
+    "category": "Yo'nalish",
+    "language": "Til",
+    "year": "Yil",
+    "sort": "Tartiblash",
+    "reset": "Tozalash"
+  },
+  "category": {
+    "research": "Tadqiqot maqolasi",
+    "review": "Sharh maqolasi",
+    "case-study": "Amaliy tadqiqot",
+    "editorial": "Tahririyatdan",
+    "short-communication": "Qisqa xabar",
+    "other": "Boshqa"
+  },
+  "sort": {
+    "newest": "Eng yangi",
+    "oldest": "Eng eski",
+    "popular": "Ommabop",
+    "downloads": "Eng ko'p yuklab olingan"
+  },
+  "author": {
+    "affiliation": "Tashkilot",
+    "country": "Davlat",
+    "orcid": "ORCID",
+    "publications": "Nashrlar",
+    "articlesCount": "Maqolalar",
+    "viewProfile": "Profilni ko'rish"
+  },
+  "archive": {
+    "title": "Arxiv",
+    "subtitle": "Jurnalning barcha chiqarilgan sonlari",
+    "issues": "ta son"
+  },
+  "common": {
+    "loading": "Yuklanmoqda...",
+    "empty": "Hech narsa topilmadi",
+    "back": "Orqaga",
+    "search": "Qidirish",
+    "noData": "Ma'lumot yo'q"
+  },
+  "admin": {
+    "title": "Boshqaruv paneli",
+    "issues": "Sonlar",
+    "articles": "Maqolalar",
+    "authors": "Mualliflar",
+    "addNew": "Yangi qo'shish",
+    "edit": "Tahrirlash",
+    "delete": "O'chirish",
+    "confirmDelete": "Rostdan ham o'chirilsinmi?",
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "login": "Kirish",
+    "logout": "Chiqish",
+    "email": "Email",
+    "password": "Parol"
+  },
+  "footer": {
+    "rights": "Barcha huquqlar himoyalangan",
+    "contact": "Aloqa",
+    "submissions": "Maqola yuborish",
+    "ethics": "Nashr etikasi"
+  }
+}

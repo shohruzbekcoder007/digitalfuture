@@ -1,0 +1,128 @@
+{
+  "site": {
+    "name": "ЭКОНОМИКА БУДУЩЕГО И ЦИФРОВЫЕ ТРАНСФОРМАЦИИ",
+    "shortName": "Экономика будущего",
+    "tagline": "Научный журнал по экономике, цифровой трансформации и инновациям",
+    "issn": "ISSN 2181-1234"
+  },
+  "nav": {
+    "home": "Главная",
+    "current": "Текущий выпуск",
+    "archive": "Архив",
+    "articles": "Статьи",
+    "authors": "Авторы",
+    "about": "О журнале",
+    "admin": "Админ"
+  },
+  "hero": {
+    "title": "Экономика будущего и цифровые трансформации",
+    "subtitle": "Открытый рецензируемый журнал по экономике, цифровой трансформации, финтеху, государственному управлению и инновациям.",
+    "viewCurrent": "Текущий выпуск",
+    "browseArchive": "Перейти в архив"
+  },
+  "home": {
+    "currentIssue": "Текущий выпуск",
+    "featuredArticles": "Избранные статьи",
+    "recentArticles": "Последние статьи",
+    "browseAll": "Все статьи"
+  },
+  "issue": {
+    "volume": "Том",
+    "issue": "Выпуск",
+    "year": "Год",
+    "pages": "Страниц",
+    "publicationDate": "Дата публикации",
+    "downloadPdf": "Скачать PDF",
+    "viewIssue": "Открыть выпуск",
+    "articlesInIssue": "Статьи в этом выпуске",
+    "issn": "ISSN",
+    "current": "Текущий выпуск",
+    "noArticles": "Пока нет статей"
+  },
+  "article": {
+    "abstract": "Аннотация",
+    "keywords": "Ключевые слова",
+    "authors": "Авторы",
+    "doi": "DOI",
+    "pages": "Страницы",
+    "category": "Категория",
+    "language": "Язык",
+    "publishedIn": "Опубликовано в",
+    "downloadPdf": "Скачать PDF",
+    "viewPdf": "Открыть PDF",
+    "cite": "Цитировать",
+    "share": "Поделиться",
+    "views": "просмотров",
+    "downloads": "скачиваний",
+    "readMore": "Читать далее",
+    "fullText": "Полный текст",
+    "references": "Список литературы",
+    "relatedArticles": "Похожие статьи",
+    "citationCopied": "Цитата скопирована"
+  },
+  "filter": {
+    "search": "Поиск по названию, автору, ключевым словам...",
+    "all": "Все",
+    "category": "Категория",
+    "language": "Язык",
+    "year": "Год",
+    "sort": "Сортировка",
+    "reset": "Сбросить"
+  },
+  "category": {
+    "research": "Исследовательская статья",
+    "review": "Обзорная статья",
+    "case-study": "Кейс-стади",
+    "editorial": "От редакции",
+    "short-communication": "Краткое сообщение",
+    "other": "Другое"
+  },
+  "sort": {
+    "newest": "Самые новые",
+    "oldest": "Самые старые",
+    "popular": "Популярные",
+    "downloads": "Чаще всего скачиваемые"
+  },
+  "author": {
+    "affiliation": "Аффилиация",
+    "country": "Страна",
+    "orcid": "ORCID",
+    "publications": "Публикации",
+    "articlesCount": "Статьи",
+    "viewProfile": "Открыть профиль"
+  },
+  "archive": {
+    "title": "Архив",
+    "subtitle": "Все выпуски журнала",
+    "issues": "выпусков"
+  },
+  "common": {
+    "loading": "Загрузка...",
+    "empty": "Ничего не найдено",
+    "back": "Назад",
+    "search": "Поиск",
+    "noData": "Нет данных"
+  },
+  "admin": {
+    "title": "Панель управления",
+    "issues": "Выпуски",
+    "articles": "Статьи",
+    "authors": "Авторы",
+    "addNew": "Добавить",
+    "edit": "Изменить",
+    "delete": "Удалить",
+    "confirmDelete": "Удалить?",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "login": "Войти",
+    "logout": "Выйти",
+    "email": "Email",
+    "password": "Пароль"
+  },
+  "footer": {
+    "rights": "Все права защищены",
+    "contact": "Контакты",
+    "submissions": "Подать статью",
+    "ethics": "Этика публикаций"
+  }
+}

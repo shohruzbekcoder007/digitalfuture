@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: #FFFFFF;
+  color: #0F172A;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3 { font-family: 'Source Serif 4', Georgia, serif; }
+
+.line-clamp-2 { display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+.line-clamp-3 { display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+.line-clamp-4 { display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; }
+
+.prose-academic {
+  max-width: 72ch;
+  color: #1e293b;
+  line-height: 1.75;
+}
+.prose-academic p { margin: 0.85rem 0; }
+.prose-academic h2 { font-family: 'Source Serif 4', Georgia, serif; font-size: 1.5rem; font-weight: 700; margin: 1.75rem 0 0.75rem; }
+.prose-academic h3 { font-family: 'Source Serif 4', Georgia, serif; font-size: 1.2rem; font-weight: 600; margin: 1.25rem 0 0.5rem; }
+.prose-academic a { color: #1B4FD8; text-decoration: underline; text-underline-offset: 2px; }
+.prose-academic blockquote {
+  border-left: 3px solid #1B4FD8;
+  padding-left: 1rem;
+  color: #475569;
+  font-style: italic;
+  margin: 1rem 0;
+}
+.prose-academic ul { list-style: disc; padding-left: 1.25rem; }
+.prose-academic ol { list-style: decimal; padding-left: 1.25rem; }
+
+/* Subtle, academic-friendly link underline */
+.link-academic { color: #1B4FD8; }
+.link-academic:hover { text-decoration: underline; text-underline-offset: 2px; }
+
+/* Hide scrollbar but keep scroll for filter chips on mobile */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+.dark body { background: #0B1220; color: #E2E8F0; }
